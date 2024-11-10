@@ -1,0 +1,6 @@
+There are two projets in this repository:
+the primary project is a multiplayer tetris game with control through the arrow keys,
+          1.)wasd and ijkl
+          2.)w,i for rotating the piece and asd ,jkl for left , down , right
+the backup project is a pulmonary xray scanning model that scans xrays and predicts the chances of certain pulmonary diseases such as tubercolosis,pneumonia etc
+the model has been trained from scratch and is executing correctly loclly but having some bugs on scribbler
